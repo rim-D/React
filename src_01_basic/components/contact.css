@@ -1,0 +1,18 @@
+.App {
+    padding: 40px;
+}
+.test {
+    font-size: 20px;
+    color: violet;
+}
+
+a {
+    display: block;
+    text-decoration: none;
+}
+span {
+    display: block;
+}
+b {
+    color: teal;
+}
