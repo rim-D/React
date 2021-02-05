@@ -9,5 +9,8 @@
 - HTTP 요청 취소
 - HTTP 요청과 응답을 JSON 형태로 자동 변경
 
+### axios호환성
+![image](https://user-images.githubusercontent.com/48913713/107015675-5cab5680-67e0-11eb-9c8e-8ba8742b4c06.png)
+
 ### 참고사이트 
 https://reactjs-kr.firebaseapp.com/docs/installation.html
