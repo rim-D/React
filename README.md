@@ -12,5 +12,10 @@
 ### axios호환성
 ![image](https://user-images.githubusercontent.com/48913713/107015675-5cab5680-67e0-11eb-9c8e-8ba8742b4c06.png)
 
+
+### Router와 파라미터 사용
+[![Video Label](https://user-images.githubusercontent.com/48913713/107017024-fb848280-67e1-11eb-80c3-87fa53b952f6.png)](https://youtu.be/bGZ0H7We4sU)</br>
+↑↑↑ 이미지를 클릭하시면 Router 시현된 영상을 확인할 수 있습니다.
+
 ### 참고사이트 
 https://reactjs-kr.firebaseapp.com/docs/installation.html
